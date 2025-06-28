@@ -1,3 +1,4 @@
+// push 풀리퀘 잘되는지 테스트
 import { useState } from 'react'
 
 import GlobalStyle from './styles/GlobalStyle'
